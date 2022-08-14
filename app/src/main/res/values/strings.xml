@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+
+    <string name="loginTitle">Food Recipes Login</string>
+    <string name="loginName">Username</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginButton">Login</string>
+
+    <string name="menuItem1">Categories</string>
+    <string name="menuItem2">Saved menus</string>
+
+    <string name="btnSave">Save recipe</string>
+
+    <string name="saveDate">Select date:</string>
+    <string name="saveFor">For:</string>
+
+    <string name="btnAddToMenu">Add to menu</string>
+
+    <string name="dialogYes">Allow</string>
+    <string name="dialogNo">Deny</string>
+
+    <string-array name="spinnerItems">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+</resources>
